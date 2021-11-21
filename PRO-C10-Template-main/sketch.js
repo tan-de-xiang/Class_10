@@ -1,5 +1,5 @@
 var sea,ship;
-var seaImg,shipImg;
+var seaImg,shipImg1;
 
 function preload(){
   //uncomment the code to add animation to ship 
